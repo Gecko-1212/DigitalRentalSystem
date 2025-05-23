@@ -1,0 +1,16 @@
+reservation_id,username,equipment_id,start_date,end_date,status
+1,user_40,61,2025-05-04,2025-05-05,Overdue
+2,user_8,55,2025-05-12,2025-05-19,Returned
+3,user_22,12,2025-04-20,2025-04-21,Ongoing
+4,user_43,32,2025-04-18,2025-04-27,Returned
+5,user_46,63,2025-05-16,2025-05-18,Overdue
+6,user_15,16,2025-04-21,2025-04-28,Overdue
+7,user_48,13,2025-05-04,2025-05-09,Returned
+8,user_48,22,2025-05-12,2025-05-21,Ongoing
+9,user_32,47,2025-04-23,2025-04-29,Returned
+10,user_44,12,2025-05-06,2025-05-15,Returned
+11,user_38,25,2025-05-12,2025-05-14,Ongoing
+12,user_13,52,2025-05-03,2025-05-11,Ongoing
+13,user_37,25,2025-04-18,2025-04-21,Ongoing
+14,user_38,50,2025-05-02,2025-05-08,Returned
+15,user_37,37,2025-05-16,2025-05-26,Overdue

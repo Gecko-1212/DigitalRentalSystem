@@ -1,0 +1,71 @@
+equipment_id,name,equipment_condition,equipment_availability
+1,Charging Station,Worn Out,True
+2,Tablet,Worn Out,False
+3,Router,Good,False
+4,Mouse,Worn Out,True
+5,3D Printer,Poor,True
+6,Mouse,Poor,False
+7,Charging Station,Worn Out,False
+8,Monitor,Worn Out,True
+9,3D Printer,Poor,False
+10,Tablet,Good,True
+11,Laser Pointer,Worn Out,False
+12,Projector,Worn Out,False
+13,Laptop,Good,True
+14,HDMI Cable,Good,False
+15,Projector,Poor,False
+16,Monitor,Worn Out,False
+17,Laptop,Good,True
+18,Tablet,Worn Out,True
+19,Hard Drive,Worn Out,True
+20,Keyboard,Worn Out,False
+21,Keyboard,Poor,True
+22,Camera,Worn Out,True
+23,Speaker,Good,False
+24,Speaker,Poor,True
+25,Router,Poor,False
+26,3D Printer,Poor,True
+27,Projector,Worn Out,False
+28,Camera,Good,False
+29,Mouse,Good,False
+30,Smartphone,Good,True
+31,Keyboard,Poor,False
+32,3D Printer,Good,True
+33,Hard Drive,Worn Out,False
+34,Monitor,Good,True
+35,Speaker,Good,True
+36,Monitor,Poor,True
+37,Microphone,Poor,False
+38,Camera,Poor,False
+39,Smartphone,Good,True
+40,Microphone,Good,True
+41,Router,Poor,True
+42,Hard Drive,Poor,True
+43,Camera,Good,False
+44,Hard Drive,Good,True
+45,Charging Station,Poor,True
+46,Smartphone,Worn Out,True
+47,Keyboard,Good,False
+48,Microphone,Worn Out,True
+49,Charging Station,Poor,True
+50,Keyboard,Good,True
+51,Laser Pointer,Good,False
+52,Camera,Good,False
+53,Mouse,Good,False
+54,Camera,Poor,True
+55,Microphone,Poor,False
+56,HDMI Cable,Good,False
+57,Monitor,Poor,True
+58,Laptop,Worn Out,False
+59,Smartphone,Poor,False
+60,Smartphone,Good,False
+61,Tablet,Poor,False
+62,Tablet,Good,False
+63,Projector,Poor,True
+64,Camera,Good,False
+65,Mouse,Worn Out,False
+66,Hard Drive,Worn Out,True
+67,HDMI Cable,Worn Out,True
+68,Keyboard,Poor,True
+69,VR Headset,Poor,True
+70,HDMI Cable,Worn Out,False
